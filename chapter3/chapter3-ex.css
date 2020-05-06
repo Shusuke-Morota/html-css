@@ -1,0 +1,16 @@
+.box1 {
+	height: 300px;
+	width: 300px;
+	background-color: navy;
+	padding: 30px;
+}
+
+.box2 {
+	height: 150px;
+	width: 150px;
+	background-color: yellow;
+	border: 5px dashed #fff;
+}
+
+
+
